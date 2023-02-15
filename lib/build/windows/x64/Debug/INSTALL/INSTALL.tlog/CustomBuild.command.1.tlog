@@ -1,0 +1,10 @@
+^C:\USERS\OLAJO\MAX\BUILD\WINDOWS\CMAKEFILES\2763B0025CF0B5D11AB5F69A71536424\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

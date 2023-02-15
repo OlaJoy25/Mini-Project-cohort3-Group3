@@ -1,0 +1,10 @@
+C:/Users/olajo/max/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/olajo/max/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/olajo/max/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/olajo/max/build/windows/runner/Debug/data/flutter_assets/assets/pic.jpg
+C:/Users/olajo/max/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/olajo/max/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/olajo/max/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/olajo/max/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/olajo/max/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/olajo/max/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
